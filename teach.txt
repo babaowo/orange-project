@@ -4,3 +4,5 @@ civic education
 account 
 commerce
 literature
+geography
+music
