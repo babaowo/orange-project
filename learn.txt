@@ -1,6 +1,0 @@
-english
-maths
-economics
-chemistry
-biology
-physics
