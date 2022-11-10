@@ -1,3 +1,6 @@
 university
 polytechnic
 colleges
+secondary
+primary
+nursery
